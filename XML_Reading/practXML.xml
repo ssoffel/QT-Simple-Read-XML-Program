@@ -1,0 +1,20 @@
+<bookstore>
+ <book category="cooking">
+  <title lang="en">EveryDay Italian</title>
+  <author>Giada De Laurentiis</author>
+  <year>2005</year>
+  <price>29.99</price>
+ </book>
+ <book category="cooking">
+  <title lang="en">EveryDay Italian</title>
+  <author>Giada De Laurentiis</author>
+  <year>2005</year>
+  <price>29.99</price>
+ </book>
+ <book category="cooking">
+  <title lang="en">EveryDay Italian</title>
+  <author>Giada De Laurentiis</author>
+  <year>2005</year>
+  <price>29.99</price>
+ </book>
+</bookstore>
